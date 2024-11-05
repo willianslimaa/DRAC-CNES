@@ -24,3 +24,5 @@ If you've never installed or run a Jekyll site locally on your computer, follow 
 * [Install Jekyll on Mac][mydoc_install_jekyll_on_mac]
 * [Install Jekyll on Windows][mydoc_install_jekyll_on_windows]
 
+### 3. Realize o deploy da aplicação
+
