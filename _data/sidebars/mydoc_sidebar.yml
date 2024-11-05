@@ -28,23 +28,19 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: Introdução
       url: /mydoc_introduction.html
-      output: web, pdf
+      output: web, pdf    
 
-    - title: Supported features
-      url: /mydoc_supported_features.html
-      output: web, pdf
-
-    - title: About the theme author
+    - title: Sobre o autor
       url: /mydoc_about.html
       output: web, pdf
 
-    - title: Support
+    - title: Suporte
       url: /mydoc_support.html
       output: web, pdf
 
-  - title: Release Notes
+  - title: Notas da versão
     output: web, pdf
     folderitems:
 
